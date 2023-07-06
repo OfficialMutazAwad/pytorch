@@ -176,7 +176,7 @@ scikit-image
 #Pinned versions: 0.20.3
 #test that import:
 
-scipy==1.6.3
+scipy==1.10.0
 # Pin SciPy because of failing distribution tests (see #60347)
 #Description: scientific python
 #Pinned versions: 1.6.3
